@@ -1,1 +1,1 @@
-# model-explorer
+# Model Explorer
